@@ -1,7 +1,6 @@
-# 👋 Olá, eu sou o Renan!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Renan%20Carro&fontSize=35&fontColor=ffffff" />
 </p>
 
 ---
